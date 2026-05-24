@@ -2,7 +2,7 @@
 
 A native iOS short-form video feed built for the Chaptr take-home challenge. One polished surface: a full-screen vertical For You feed that streams Pexels clips from a bundled JSON catalog, with a fixed-size player pool, opportunistic disk cache, threaded comments, scrub preview, and Instruments-ready performance diagnostics.
 
-**Walkthrough video:** _add Loom URL here after recording_
+**Walkthrough video:** https://drive.google.com/file/d/1Qwy5ULNwQFb7F3e3bvsz3x6Piy8zmWew/view
 
 ---
 
