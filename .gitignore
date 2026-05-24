@@ -1,2 +1,15 @@
-.DS_STORE 
-.derivedData
+.DS_Store
+DerivedData/
+.build/
+.swiftpm/
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+Pods/
+Carthage/Build/
+
+*.xcarchive
+*.dSYM
+*.ipa
