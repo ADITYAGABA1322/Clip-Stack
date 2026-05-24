@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests-primary.dia",
+    "emit-module-dependencies" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests-primary-emit-module.dia",
+    "pch" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests-primary.swiftdeps"
+  },
+  "/Users/marrow/Downloads/ClipStack/ClipStackTests/ClipStackTests.swift" : {
+    "const-values" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests.swiftconstvalues",
+    "dependencies" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests.d",
+    "diagnostics" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests.dia",
+    "index-unit-output-path" : "/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests.o",
+    "llvm-bc" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests.bc",
+    "object" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests.o",
+    "swift-dependencies" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests.swiftdeps",
+    "swiftmodule" : "/Users/marrow/Downloads/ClipStack/.derivedData/Build/Intermediates.noindex/ClipStack.build/Debug-iphonesimulator/ClipStackTests.build/Objects-normal/x86_64/ClipStackTests~partial.swiftmodule"
+  }
+}

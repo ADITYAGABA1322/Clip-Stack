@@ -1,0 +1,184 @@
+{
+  "source": "/Users/marrow/Downloads/ClipStack/ClipStack/Views/VideoPageView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Unmute",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 352
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mute",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 352
+        }
+      },
+      {
+        "comment": "",
+        "key": "Playback speed %@",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "Comments",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 439
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 445
+        }
+      },
+      {
+        "comment": "",
+        "key": "Replying to %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 479
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel reply",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 493
+        }
+      },
+      {
+        "comment": "",
+        "key": "Post comment",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 539
+        }
+      },
+      {
+        "comment": "",
+        "key": "Y",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 513
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlike comment",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 643
+        }
+      },
+      {
+        "comment": "",
+        "key": "Like comment",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 643
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 572
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reply",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 595
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hide replies",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 611
+        }
+      },
+      {
+        "comment": "",
+        "key": "View %lld repl%@",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 612
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlike reply",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 736
+        }
+      },
+      {
+        "comment": "",
+        "key": "Like reply",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 736
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 700
+        }
+      },
+      {
+        "comment": "",
+        "key": "Swipe up for next",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 933
+        }
+      },
+      {
+        "comment": "",
+        "key": "Double tap to like",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 933
+        }
+      },
+      {
+        "comment": "",
+        "key": "Explore more clips",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 938
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show some love ❤️",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 939
+        }
+      }
+    ]
+  },
+  "version": 1
+}
